@@ -22,6 +22,5 @@ newFunc(update, int,
 
 newFunc(destroy, void, 
 	parmeters(void));
-// @nocheckin 
 // @TODO: Add new Functions.
 CScopeEnd

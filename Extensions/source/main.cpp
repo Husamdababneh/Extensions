@@ -8,7 +8,7 @@
 #include <extensions_functions.h>
 #include "stuctures.h"
 
-//git grep - i "@.*:.*\."
+
 
 const char* functions_name[] = {
 	"init","update","destroy"
