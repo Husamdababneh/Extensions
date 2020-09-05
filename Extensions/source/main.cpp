@@ -9,7 +9,6 @@
 #include "stuctures.h"
 
 
-
 const char* functions_name[] = {
 	"init","update","destroy"
 };
